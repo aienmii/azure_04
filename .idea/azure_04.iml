@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lab002-common-resources-start/.terraform" />
+      <excludeFolder url="file://$MODULE_DIR$/lab004-event-driven/.terraform" />
+      <excludeFolder url="file://$MODULE_DIR$/lab_azure_03/.terraform" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
