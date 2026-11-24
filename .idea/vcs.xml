@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab002-common-resources-start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab004-event-driven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab_azure_03" vcs="Git" />
+  </component>
+</project>
